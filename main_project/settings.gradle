@@ -1,0 +1,2 @@
+include ':app', ':graphviewlibrary', ':vad'
+rootProject.name='MainProject'

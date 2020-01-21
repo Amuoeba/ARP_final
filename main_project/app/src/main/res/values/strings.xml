@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MainProject</string>
+    <string name="title">Raw audio sensing</string>
+    <string name="sensor_value_title">Raw output:</string>
+    <string name="sensor_value">0</string>
+    <string name="raw_available_title">Raw available:</string>
+    <string name="raw_available">Default</string>
+    <string name="no_read_title">No. read:</string>
+    <string name="no_read_val">0</string>
+    <string name="sample_rate_title">Sampling rate:</string>
+    <string name="sample_rate">0</string>
+    <string name="buffer_size_title">Buffer size:</string>
+    <string name="buffer_size">0</string>
+    <string name="is_speech_value">Empty</string>
+</resources>
